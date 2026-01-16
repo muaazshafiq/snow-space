@@ -1,4 +1,4 @@
-![SnowSpace Demo](assets/demo.gif)
+![SnowSpace Demo]([assets/demo.gif](https://github.com/muaazshafiq/snow-space/blob/main/assets/demo.gif))
 
 # SnowSpace
 
