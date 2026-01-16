@@ -1,4 +1,4 @@
-# SnowSpace
+# Snow Space
 
 ![SnowSpace Demo](assets/demo.gif)
 
