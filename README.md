@@ -1,6 +1,6 @@
-![SnowSpace Demo](assets/demo.gif)
-
 # SnowSpace
+
+![SnowSpace Demo](assets/demo.gif)
 
 A snow removal job marketplace app that helps users find and complete snow shoveling jobs in Brampton, Ontario. Jobs are prioritized based on traffic levels and snow coverage (NDSI) to optimize snow removal efforts in high-priority areas.
 
